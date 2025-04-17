@@ -1,6 +1,6 @@
-# 🧩 Design1: Original Clamp Design
+# 🧩 DesignB: Simple Clamp Design
 
-Design1 offers a versatile stereotaxic clamp suitable for various experimental setups. It is available in both CNC-machined and 3D-printed versions.
+DesignB offers a versatile stereotaxic clamp suitable for various experimental setups. It is available in both CNC-machined and 3D-printed versions.
 
 ## 🔧 Manufacturing Options
 
