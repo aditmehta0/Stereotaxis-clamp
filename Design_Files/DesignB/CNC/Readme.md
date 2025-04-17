@@ -6,7 +6,7 @@ This directory provides all necessary files and instructions to manufacture Desi
 
 - `CAD_Files/`: Contains `.STEP` and `.SLDPRT` files for the clamp components.
 - `BOM.xlsx`: Bill of Materials with part numbers and cost estimates.
-
+- `DesignB_cnc.pdf`: Drawing file for Machine Shop/Machinist
 ## 🧾 Materials
 
 - **Material**: 6061-T6 Aluminum
