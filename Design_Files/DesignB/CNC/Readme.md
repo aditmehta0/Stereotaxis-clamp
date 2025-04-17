@@ -11,7 +11,7 @@ This directory provides all necessary files and instructions to manufacture Desi
 
 - **Material**: 6061-T6 Aluminum
 - **Stock Size**: 50mm x 25mm x 6ft bar
-- **Vendors**: McMaster-Carr, Grainger
+- **Vendors**: McMaster-Carr or Grainger
 
 ## ⚙️ Machining Notes
 
