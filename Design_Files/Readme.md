@@ -1,1 +1,1 @@
-![Stereotaxic Clamp Render](Design_Files/De1.png)
+![Stereotaxic Clamp Render](/Design_Files/De1.png)
