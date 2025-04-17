@@ -13,20 +13,17 @@ The goal is to provide an **accessible, modifiable, and affordable open-source s
 
 ```
 Stereotaxic_Clamp/
-├── BOMs/                        # Bills of Materials for each design
-│   ├── Design1_CNC_BOM.xlsx
-│   └── Design1_3DPrinted_BOM.xlsx
 ├── Design_Files/
-│   ├── Design1/
+│   ├── DesignB/
 │   │   ├── CNC/
-│   │   │   ├── CAD_Files/
-│   │   │   └── Instructions/
-│   │   │       └── Machining_Guide.md
+│   │   │   ├── DesignB_CNC_BOM.xlsx
+│   │   │   └── CAD_Files/
 │   │   └── 3D_Print/
-│   │       ├── STL_Files/
+│   │       ├── DesignB_3DPrinted_BOM.xlsx
+│   │       └── STL_Files/
 │   │       └── Instructions/
 │   │           └── Assembly_Guide.md
-│   └── Design2/
+│   └── DesignA/
 │       ├── CNC/
 │       └── 3D_Print/
 └── README.md                   # This project overview file
