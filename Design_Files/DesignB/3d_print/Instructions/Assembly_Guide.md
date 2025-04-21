@@ -41,7 +41,7 @@
 
 ✅ Make sure insert holes are opposite the rod holes (i.e., for horizontal screws)
 
-For the version with no brass inseets - use a tap die hand/power tool with appropriate M4 plug tap such as [https://www.homedepot.com/pep/Drill-America-M4-x-0-7-High-Speed-Steel-4-Flute-Plug-Hand-Tap-1-Piece-DWTP4X-7/305700296](https://shorturl.at/jCm8E)
+For the version with no brass inseets - use a tap die hand/power tool with appropriate M4 plug tap such as https://shorturl.at/jCm8E
 ---
 
 ## 🧷 3. Rod Insertion & Clamping
