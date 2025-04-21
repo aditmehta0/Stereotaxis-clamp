@@ -24,8 +24,7 @@ Stereotaxic_Clamp/
 │   │       └── Instructions/
 │   │           └── Assembly_Guide.md
 │   └── DesignA/
-│       ├── CNC/
-│       └── 3D_Print/
+│       ├── 3D_Print/
 └── README.md                   # This project overview file
 ```
 
@@ -47,9 +46,8 @@ Each design includes:
 
 | Production Method      | Total Cost (100 Units) | Cost per Part |
 |------------------------|------------------------|---------------|
-| 3D Printing (In-House) | $133.00                | $1.33         |
-| CNC In-House           | $494.44                | $4.94         |
-| CNC External Vendor    | $1,124.44              | $11.24        |
+| 3D Printing (In-House) | $159.00                | $1.59         |
+
 
 ## 📊 Cost Comparison – DesignB
 
