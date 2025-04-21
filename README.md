@@ -33,8 +33,8 @@ Stereotaxic_Clamp/
 
 ## 🧩 Designs Overview
 
-- **Design1**: Standard block-style clamp with parallel rod positioning and set screws.
-- **Design2**: Alternative geometry clamp, optimized for fixed alignment and simplified printing.
+- **DesignA**: Block-style clamp with parallel rod positioning and dual set screws for system where rod end insertion is not an option.
+- **DesignB**: Simplified geometry clamp, optimized for rod end point insertion, less parts, simplified printing.
 
 Each design includes:
 - Fully dimensioned CAD files (`.STEP`, `.SLDPRT`)
@@ -43,8 +43,15 @@ Each design includes:
 - Detailed BOMs with sourcing links
 
 ---
+## 📊 Cost Comparison – DesignA
 
-## 📊 Cost Comparison – Design1
+| Production Method      | Total Cost (100 Units) | Cost per Part |
+|------------------------|------------------------|---------------|
+| 3D Printing (In-House) | $133.00                | $1.33         |
+| CNC In-House           | $494.44                | $4.94         |
+| CNC External Vendor    | $1,124.44              | $11.24        |
+
+## 📊 Cost Comparison – DesignB
 
 | Production Method      | Total Cost (100 Units) | Cost per Part |
 |------------------------|------------------------|---------------|
